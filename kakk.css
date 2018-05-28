@@ -1,0 +1,9 @@
+body {
+background-image: url("https://s-media-cache-ak0.pinimg.com/736x/50/cf/53/50cf53977249dd85a5ecd08c0803fe1b.jpg");
+}
+.MyStyle {
+text-align: center;
+background-color: #efefef;
+border: 1 px dashed #C30000;
+color: pink;
+}
